@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/HK1_21_22/TH_tuan2/app/src/main/res/layout/activity_bai1.xml" value="0.264" />
-        <entry key="..\:/HK1_21_22/TH_tuan2/app/src/main/res/layout/activity_bai2.xml" value="0.27291666666666664" />
+        <entry key="..\:/HK1_21_22/TH_tuan2/app/src/main/res/layout/activity_bai2.xml" value="0.264" />
         <entry key="..\:/HK1_21_22/TH_tuan2/app/src/main/res/layout/activity_bai3.xml" value="0.264" />
         <entry key="..\:/HK1_21_22/TH_tuan2/app/src/main/res/layout/activity_bai_taylor.xml" value="0.264" />
+        <entry key="..\:/HK1_21_22/TH_tuan2/app/src/main/res/layout/activity_embe.xml" value="0.264" />
+        <entry key="..\:/HK1_21_22/TH_tuan2/app/src/main/res/layout/activity_giohang.xml" value="0.264" />
         <entry key="..\:/HK1_21_22/TH_tuan2/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/HK1_21_22/TH_tuan2/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
