@@ -16,14 +16,14 @@ public class MainActivity2 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main2);
+        setContentView(R.layout.activity_main);
 
         imgAmnhac = findViewById(R.id.imgAmnhac);
         imgMayanh = findViewById(R.id.imgMayanh);
         imgXbox = findViewById(R.id.imgXbox);
-        btnAdd1 = findViewById(R.id.btnAdd1);
-        btnAdd2 = findViewById(R.id.btnAdd2);
-        btnAdd3 = findViewById(R.id.btnAdd3);
+        btnAdd1 = findViewById(R.id.button);
+        btnAdd2 = findViewById(R.id.button1);
+        btnAdd3 = findViewById(R.id.button2);
 
         Animation amnhac = AnimationUtils.loadAnimation(this,R.anim.anim_amnhac);
         Animation cam = AnimationUtils.loadAnimation(this,R.anim.anim_cam);

@@ -34,7 +34,7 @@
     <translate
         android:startOffset="1900"
         android:fromYDelta="0"
-        android:toYDelta="-100"
+        android:toYDelta="-150"
         android:duration="200"
         />
     <translate
@@ -47,7 +47,7 @@
         android:startOffset="2200"
         android:toAlpha="0"
         android:fromAlpha="1"
-        android:duration="5"
+        android:duration="100"
         />
 
 </set>
